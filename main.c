@@ -2,7 +2,8 @@
 
 int main()
 {
-printF("open Source SM Project");
-printf("firest GitHub Tranning");
+printF("open Source SM Project\n");
+printf("firest GitHub Tranning\n");
+  
 return 0;
 }
