@@ -2,7 +2,8 @@
 
 int main()
 {
-  printf("나카무라 마사타카 야바이");
+  printf("First OSS Code");
+  printf("Second OSS Code");
+
   return 0;
-  
-}
+  }
